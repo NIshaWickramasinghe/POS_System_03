@@ -20,17 +20,17 @@ label {
 body > .nav_bar {
     width: 100%;
     position: fixed;
-    background-color: #F8F9FA;
+    background-color: #023047;
     z-index: 1;
 }
 
 .nav_items {
     font-size: 24px;
-    color: #6C757D;
+    color: black;
 }
 
 .nav_items:hover {
-    color: #5227CC;
+    color: #219ebc;
 }
 
 .background {
@@ -42,7 +42,7 @@ body > .nav_bar {
     height: 100vh;
     min-height: 99vh;
     width: 100%;
-    background-color: #DFE2EC;
+    background-color: #bde0fe;
 
 }
 
